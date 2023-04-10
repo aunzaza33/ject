@@ -41,7 +41,7 @@
     "react-webcam": "^7.0.1",
     "swal": "^0.1.0"
   },
-  "homepage": "http://202.44.40.185",
+  "homepage": "http://202.44.40.185/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

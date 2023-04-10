@@ -2,7 +2,7 @@ import './qrcode.css';
 import QRCode from 'react-qr-code';
 function Qrcode() {
   const path = window.location.pathname.match(/\d+(-\d+)*/)[0];
-  const text=`https://project-kmutnb.vercel.app/repair/`
+  const text=`http://202.44.40.185/repair/`
   //download qr code
   const download=()=>{
     const svg = document.getElementById("QRCode");
